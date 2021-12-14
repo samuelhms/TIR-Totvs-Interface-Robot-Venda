@@ -1,0 +1,10 @@
+{
+    "Url": "http://ipsmartweb:port/", 
+    "Browser": "Firefox",
+    "Environment": "ambiente_dev",
+    
+    "Language": "pt-br",
+    "User": "admin",
+    "Password": "admin",
+    "Headless": false
+}
